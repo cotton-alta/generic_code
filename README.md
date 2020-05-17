@@ -12,3 +12,7 @@ CSRF対策用のコードサンプル。（確認画面）
 
 ## onetimeTicket2.php
 CSRF対策用のコードサンプル。（完了画面）
+
+## modal.vue
+Vue.js用のモーダルウインドウを表示するコンポーネント。
+propsで画像のURLを渡して使う。
